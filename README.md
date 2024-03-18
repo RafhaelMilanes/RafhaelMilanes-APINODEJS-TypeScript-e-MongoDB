@@ -93,7 +93,7 @@ npm install
 Para iniciar o servidor, execute o seguinte comando:
 
 ```
-npm start
+npm run dev
 
 ```
 O servidor estará acessível em http://localhost:3333.
